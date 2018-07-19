@@ -1,10 +1,10 @@
 
 # Site settings
-title:   
-SEOTitle:   
+title: ""  
+SEOTitle:""   
 header-img: img/contact-bg.jpg
-email:   
-description:   
+email: ""
+description:""   
 keyword:   
 url: ""               
 baseurl: ""                            # for example, '/blog' if your blog hosted on 'host/blog'
